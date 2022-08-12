@@ -1,11 +1,8 @@
 untesting line update
 testing line
 commit test
-<<<<<<< HEAD
 456 88888
-=======
 456 77777
->>>>>>> ae47bb7c21fcb8ecbfad112411022cd5e1717f83
 789.
 add line
 new branch line
